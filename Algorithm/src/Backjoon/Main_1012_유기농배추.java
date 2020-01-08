@@ -78,7 +78,6 @@ public class Main_1012_유기농배추 {
 			
 			System.out.println(result);
 			
-			
 		}
 	}
 
